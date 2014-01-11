@@ -1,0 +1,1 @@
+print(tojson(rs.conf()))
